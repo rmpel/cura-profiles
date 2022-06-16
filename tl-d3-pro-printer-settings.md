@@ -2,17 +2,21 @@
 
 ## Printer settings
 
-X: 305
-Y: 305
-Z: 350
+| Dimension | Size|
+| --- |  ---: |
+| X | 305 |
+| Y | 305 |
+| Z | 350 |
 
 ## Printhead settings
 
-X min: -75mm
-Y min: -18mm
-X max: 18mm
-Y max: 35mm
-Gantry height: 55.0mm
+| Dimension | Size |
+| --- |  ---: |
+| X min | -75mm |
+| Y min | -18mm |
+| X max | 18mm |
+| Y max | 35mm |
+| Gantry height | 55.0mm |
 
 ## Start GCode:
 
